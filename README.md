@@ -10,3 +10,12 @@ It is estimated that up to 90% of CVD may be preventable.  Prevention of CVD inv
 Cardiovascular diseases are the leading cause of death worldwide except Africa.  Together CVD resulted in 17.9 million deaths (32.1%) in 2015, up from 12.3 million (25.8%) in 1990.  Deaths, at a given age, from CVD are more common and have been increasing in much of the developing world, while rates have declined in most of the developed world since the 1970s.  Coronary artery disease and stroke account for 80% of CVD deaths in males and 75% of CVD deaths in females.  Most cardiovascular disease affects older adults. In the United States 11% of people between 20 and 40 have CVD, while 37% between 40 and 60, 71% of people between 60 and 80, and 85% of people over 80 have CVD.  The average age of death from coronary artery disease in the developed world is around 80, while it is around 68 in the developing world.[14] CVD is typically diagnosed seven to ten years earlier in men than in women.
 
 # Machine Learning and Deep Learning
+Machine learning (ML) is an umbrella term for solving problems for which development of algorithms by human programmers would be cost-prohibitive, and instead the problems are solved by helping machines "discover" their "own" algorithms, without needing to be explicitly told what to do by any human-developed algorithms.  Recently, generative artificial neural networks have been able to surpass results of many previous approaches.  Machine-learning approaches have been applied to large language models, computer vision, speech recognition, email filtering, agriculture and medicine, where it is too costly to develop algorithms to perform the needed tasks.
+
+The mathematical foundations of ML are provided by mathematical optimization (mathematical programming) methods. Data mining is a related (parallel) field of study, focusing on exploratory data analysis through unsupervised learning.
+
+ML is known in its application across business problems under the name predictive analytics. Although not all machine learning is statistically based, computational statistics is an important source of the field's methods.
+
+# Machine Learning and Heart Disease
+Machine Learning can play an essential role in predicting presence/absence of Heart Disease. Such information, if predicted well in advance, can provide important insights to doctors who can then adapt their diagnosis and treatment per patient basis.
+
