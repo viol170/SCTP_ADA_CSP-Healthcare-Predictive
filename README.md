@@ -1,4 +1,4 @@
-# SCTP_ADSA_CSP-Healthcare-Predictive
+# SCTP_ADA_CSP-Healthcare-Predictive
 
 # SCTP Associate Data Analyst Capstone Project
 Problem Statement:
