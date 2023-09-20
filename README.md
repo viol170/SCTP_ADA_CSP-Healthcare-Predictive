@@ -4,6 +4,10 @@
 Problem Statement:
 Heart disease is a leading cause of mortality worldwide. Early detection and accurate prediction of heart disease can significantly improve patient outcomes by enabling timely intervention and preventive measures. The objective of this project is to develop a machine learning model that can effectively predict the presence or absence of heart disease based on various medical and lifestyle factors.
 
+Research Objective:
+The goal of this project is to build a predictive model that can accurately classify individuals as either having or not having heart disease.  By analysing a comprehensive set of patient attributes,
+including demographic, clinical, and lifestyle factors, the model aims to identify patterns and features indicative of the presence or absence of heart disease.
+
 # Cardiovascular Disease
 Cardiovascular disease (CVD) is any disease involving the heart or blood vessels.  CVDs constitute a class of diseases that includes:  coronary artery diseases (e.g. angina, heart attack), stroke, heart failure, hypertensive heart disease, rheumatic heart disease, cardiomyopathy, abnormal heart rhythms, congenital heart disease, valvular heart disease, carditis, aortic aneurysms, peripheral artery disease, thromboembolic disease, and venous thrombosis.
 
@@ -23,3 +27,7 @@ ML is known in its application across business problems under the name predictiv
 # Machine Learning and Heart Disease
 Machine Learning can play an essential role in predicting presence/absence of Heart Disease. Such information, if predicted well in advance, can provide important insights to doctors who can then adapt their diagnosis and treatment per patient basis.
 
+# Data Source
+The dataset provided for this project is a subset of data our team worked on for a project of Parkway Pantai to understand the influence of various factors on the heart disease.
+
+# Data Preparation
