@@ -1,5 +1,9 @@
 # SCTP_ADSA_CSP-Healthcare-Predictive
 
+# SCTP Associate Data Analyst Capstone Project
+Problem Statement:
+Heart disease is a leading cause of mortality worldwide. Early detection and accurate prediction of heart disease can significantly improve patient outcomes by enabling timely intervention and preventive measures. The objective of this project is to develop a machine learning model that can effectively predict the presence or absence of heart disease based on various medical and lifestyle factors.
+
 # Cardiovascular Disease
 Cardiovascular disease (CVD) is any disease involving the heart or blood vessels.  CVDs constitute a class of diseases that includes:  coronary artery diseases (e.g. angina, heart attack), stroke, heart failure, hypertensive heart disease, rheumatic heart disease, cardiomyopathy, abnormal heart rhythms, congenital heart disease, valvular heart disease, carditis, aortic aneurysms, peripheral artery disease, thromboembolic disease, and venous thrombosis.
 
