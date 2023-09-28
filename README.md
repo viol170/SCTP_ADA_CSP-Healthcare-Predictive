@@ -74,6 +74,8 @@ Data Dictionary:
 |occupation|Occupation of the patient|STRING|NONE| |
 |smoke|Presence of smoking|BINARY|NONE| |
 |weight|Weight of the patient|FLOAT|KG| |
-|disease|Presence of disease|BINARY|NONE|Target variable|
+|disease|Presence of disease|BINARY|NONE|Target Variable|
+
+Using the info() method, I obtained more information of the data: <img src="pic04.jpg"/>
 
 # Data Preparation
