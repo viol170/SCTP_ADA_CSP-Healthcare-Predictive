@@ -60,9 +60,16 @@ Data Dictionary:
 |Column Name|Description|Type|Unit|Remarks|
 |:--|:--|:--|:--|:--|
 |date|The date on which examination was done|DATE|NONE| |
-|gender|"Male", "Female" or "Other"|
-|age|age of the patient|
-|hypertension|0 if the patient doesn't have hypertension, 1 if the patient has hypertension|
+|country|The country name of the patient|STRING|NONE| |
+|id|The unique ID of the patient|INT|NONE|Primary Key|
+|active|The physical activity of the patient|BINARY|NONE| |
+|age|The age of the patient|INT|DAYS| |
+|alco|Alcohol intake|BINARY|NONE| |
+|ap_hi|Systolic blood pressure|INT|NONE| |
+|ap_lo|Diastolic blood pressure|INT|NONE| |
+|cholesterol|Cholesterol level of the patient|INT|NONE| |
+|gender|The gender of the patient|INT|NONE|1-Male, 2-Female|
+|gluc|Glucose level of the patient|INT|NONE|1-low, 2-normal, 3-high|
 |heart_disease|0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease|
 |ever_married|"No" or "Yes"|
 |work_type|"children", "Govt_jov", "Never_worked", "Private" or "Self-employed"|
