@@ -108,3 +108,14 @@ To resolve the issue, I will treat the errors as outliers and remove them:
 * height: <img height="200" src="pic11.png"/> --> <img height="200" src="pic12.png"/>
 * weight: <img height="200" src="pic13.png"/> --> <img height="200" src="pic14.png"/>
 
+Note that outliers often skew the results of statistical analyses on the dataset, which leads to less effective models.
+
+# Data Processing
+Before deploying the Machine Learning algorithms, I employed two different and separate methods to further process my data:
+* Standardise Scaling: Variables with different ranges, units of measurement or orders of magnitudes will lead to biased model of performance. So by standardise scaling all the numerical variables, we can build a more accurate and effective machine learning models.
+* Data Aggregating and binning: Having too many variables makes machine learning models inefficient.  Binning also reduces the complexities of the machine learning models.
+
+The following correlation matrices is generated after the data processing:
+* Standardise Scaling: <img src="pic15.png"/>
+* Data Aggregating and binning: <img src="pic16.png"/>
+
