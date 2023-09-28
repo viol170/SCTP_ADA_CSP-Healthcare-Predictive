@@ -124,10 +124,10 @@ The following correlation matrices is generated after the data processing:
 
 | |Standardise Scaling|Data Aggregating|
 |:--|:--:|:--:|
-|K Neighbors Classifier|<img src="pic16.png"/> Max Score = |<img src="pic21.png"/> Max Score = |
-|Decision Tree Classifier|<img src="pic17.png"/>|<img src="pic22.png"/>|
-|Random Forest Classifier|<img src="pic18.png"/>|<img src="pic23.png"/>|
-|Support Vector Classifier|<img src="pic19.png"/>|<img src="pic24.png"/>|
+|K Neighbors Classifier|<img src="pic16.png"/> Max Score = 72% |<img src="pic21.png"/> Max Score = |
+|Decision Tree Classifier|<img src="pic17.png"/> Max Score = |<img src="pic22.png"/> Max Score = |
+|Random Forest Classifier|<img src="pic18.png"/> Max Score = |<img src="pic23.png"/> Max Score = |
+|Support Vector Classifier|<img src="pic19.png"/> Max Score = |<img src="pic24.png"/> Max Score = |
 
 # Conclusion
 
