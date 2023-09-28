@@ -120,3 +120,17 @@ The following correlation matrices is generated after the data processing:
 * Standardise Scaling: <img src="pic15.png"/>
 * Data Aggregating and binning: <img src="pic20.png"/>
 
+# Results
+
+
+
+
+# Conclusion
+
+
+
+# Future Developments
+I intend to extend my research by working on the following:
+* Logistic Regression
+* Naive Bayes Classifier
+* Deep Learning Models
