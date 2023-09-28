@@ -12,12 +12,11 @@ The goal of this project is to build a predictive model that can accurately clas
 including demographic, clinical, and lifestyle factors, the model aims to identify patterns and features indicative of the presence or absence of heart disease.
 
 # Cardiovascular Disease
-
-<img align="left" height="200" src="pic01.jpg"/>
-
 Cardiovascular disease (CVD) is any disease involving the heart or blood vessels.  CVDs constitute a class of diseases that includes:  coronary artery diseases (e.g. angina, heart attack), stroke, heart failure, hypertensive heart disease, rheumatic heart disease, cardiomyopathy, abnormal heart rhythms, congenital heart disease, valvular heart disease, carditis, aortic aneurysms, peripheral artery disease, thromboembolic disease, and venous thrombosis.
 
 The underlying mechanisms vary depending on the disease.  It is estimated that dietary risk factors are associated with 53% of CVD deaths.  Coronary artery disease, stroke, and peripheral artery disease involve atherosclerosis.  This may be caused by high blood pressure, smoking, diabetes mellitus, lack of exercise, obesity, high blood cholesterol, poor diet, excessive alcohol consumption, and poor sleep, among other things.  High blood pressure is estimated to account for approximately 13% of CVD deaths, while tobacco accounts for 9%, diabetes 6%, lack of exercise 6%, and obesity 5%.  Rheumatic heart disease may follow untreated strep throat.
+
+<img align="right" height="200" src="pic01.jpg"/>
 
 It is estimated that up to 90% of CVD may be preventable.  Prevention of CVD involves improving risk factors through: healthy eating, exercise, avoidance of tobacco smoke and limiting alcohol intake.  Treating risk factors, such as high blood pressure, blood lipids and diabetes is also beneficial.  Treating people who have strep throat with antibiotics can decrease the risk of rheumatic heart disease.  The use of aspirin in people who are otherwise healthy is of unclear benefit.
 
