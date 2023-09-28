@@ -41,7 +41,9 @@ Machine learning approaches are traditionally divided into different categories,
 
 # Machine Learning and Heart Disease
 Machine Learning can play an essential role in predicting presence/absence of Heart Disease. Such information, if predicted well in advance, can provide important insights to doctors who can then adapt their diagnosis and treatment per patient basis. For the current project, I will be using 4 algorithms to compare their results.  The algorithms are:
-* K Neighbors Classifier: This classifier looks for the classes of K nearest neighbors of a given data point and based on the majority class, assigns a class to this data point.<img align="right" src="pic03a.jpg"/>
+
+<img align="right" height="100" src="pic03a.jpg"/>
+* K Neighbors Classifier: This classifier looks for the classes of K nearest neighbors of a given data point and based on the majority class, assigns a class to this data point.
 * Decision Tree Classifier: This classifier assigns class values to each data point based on a decision tree that was created by the classifier.
 
 # Data Source
