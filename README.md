@@ -54,4 +54,6 @@ Machine Learning can play an essential role in predicting presence/absence of He
 # Data Source
 The dataset provided for this project is a subset of data our team worked on for a project of Parkway Pantai to understand the influence of various factors on the heart disease.
 
+[Dataset](cardio_data.csv)
+
 # Data Preparation
