@@ -40,7 +40,9 @@ Machine learning approaches are traditionally divided into different categories,
 * Reinforcement learning: A computer program interacts with a dynamic environment in which it must perform a certain goal (such as driving a vehicle or playing a game against an opponent). As it navigates its problem space, the program is provided feedback that's analogous to rewards, which it tries to maximize. Although each algorithm has advantages and limitations, no single algorithm works for all problems.
 
 # Machine Learning and Heart Disease
-Machine Learning can play an essential role in predicting presence/absence of Heart Disease. Such information, if predicted well in advance, can provide important insights to doctors who can then adapt their diagnosis and treatment per patient basis.
+Machine Learning can play an essential role in predicting presence/absence of Heart Disease. Such information, if predicted well in advance, can provide important insights to doctors who can then adapt their diagnosis and treatment per patient basis. For the current project, I will be using 4 algorithms to compare their results.  The algorithms are:
+* K Neighbors Classifier: This classifier looks for the classes of K nearest neighbors of a given data point and based on the majority class, assigns a class to this data point.<img align="right" src="pic03a.jpg"/>
+* Decision Tree Classifier: This classifier assigns class values to each data point based on a decision tree that was created by the classifier.
 
 # Data Source
 The dataset provided for this project is a subset of data our team worked on for a project of Parkway Pantai to understand the influence of various factors on the heart disease.
