@@ -122,8 +122,12 @@ The following correlation matrices is generated after the data processing:
 
 # Results
 
-
-
+| |Standardise Scaling|Data Aggregating|
+|:--|:--:|:--:|
+|K Neighbors Classifier|<img src="pic16.png"/>|<img src="pic21.png"/>|
+|Decision Tree Classifier|<img src="pic17.png"/>|<img src="pic22.png"/>|
+|Random Forest Classifier|<img src="pic18.png"/>|<img src="pic23.png"/>|
+|Support Vector Classifier|<img src="pic19.png"/>|<img src="pic15.png"/>|
 
 # Conclusion
 
