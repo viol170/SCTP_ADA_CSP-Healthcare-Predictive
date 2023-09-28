@@ -83,9 +83,12 @@ As most machine learning algorithms cannot handle categorical variables, I used 
   - 1-Accountant
   - 2-Architect
   - 3-Chef
-  - 
-
-
+  - 4-Doctor
+  - 5-Engineer
+  - 6-Lawyer
+  - 7-Nurse
+  - 8-Teacher
+  - 0-Others
 
 Using the info() method, I obtained more information of the data: <img src="pic04.jpg"/>
 
