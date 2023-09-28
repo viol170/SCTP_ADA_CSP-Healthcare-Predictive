@@ -76,11 +76,20 @@ Data Dictionary:
 |weight|Weight of the patient|FLOAT|KG| |
 |disease|Presence of disease|BINARY|NONE|Target Variable|
 
+# Data Preparation
+As most machine learning algorithms cannot handle categorical variables, I used Label Encoding to modified 2 variables: country and occupation. Label Encoding is where each category in the variable is assigned an integer value from 1 to N where N is the number of categories of the variable.
+* country: 1-India, 2-Indonesia, 3-Malaysia, 4-Singapore
+* occupation:
+  - 1-Accountant
+  - 2-Architect
+  - 3-Chef
+  - 
+
+
+
 Using the info() method, I obtained more information of the data: <img src="pic04.jpg"/>
 
 Using the describe() method, I obtained statistics of the data: <img src="pic05.jpg"/>
 
 Using the hist() method, I obtained the pictorial view of the data: <img src="pic06.png"/>
 
-
-# Data Preparation
