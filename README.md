@@ -113,7 +113,8 @@ Note that outliers often skew the results of statistical analyses on the dataset
 Before deploying the Machine Learning algorithms, I employed two different and separate methods to further process my data:
 * Standardise Scaling: Variables with different ranges, units of measurement or orders of magnitudes will lead to biased model of performance. So by standardise scaling all the numerical variables, we can build a more accurate and effective machine learning models.
 * Data Aggregating and binning: Having too many variables makes machine learning models inefficient.  Binning also reduces the complexities of the machine learning models.
-  - $Body Mass Index (BMI) = \frac{weight}{height^2}$
+  - Body Mass Index (BMI) $= \frac{weight}{height^2}$
+  - Mean Arterial Pressure (MAP) $= \frac{2\times DiastolicBP+ SystolicBP}{3}$
 
 The following correlation matrices is generated after the data processing:
 * Standardise Scaling: <img src="pic15.png"/>
