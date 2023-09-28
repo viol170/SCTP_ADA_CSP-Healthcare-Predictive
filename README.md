@@ -25,7 +25,7 @@ Cardiovascular diseases are the leading cause of death worldwide except Africa. 
 
 # Machine Learning and Deep Learning
 
-<img align="left" height="200" src="pic02.jpg"/>
+<img align="left" height="200" src="pic02.png"/>
 
 Machine learning (ML) is an umbrella term for solving problems for which development of algorithms by human programmers would be cost-prohibitive, and instead the problems are solved by helping machines "discover" their "own" algorithms, without needing to be explicitly told what to do by any human-developed algorithms.  Recently, generative artificial neural networks have been able to surpass results of many previous approaches.  Machine-learning approaches have been applied to large language models, computer vision, speech recognition, email filtering, agriculture and medicine, where it is too costly to develop algorithms to perform the needed tasks.
 
