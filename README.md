@@ -96,3 +96,13 @@ Using the describe() method, I obtained statistics of the data: <img src="pic05.
 
 Using the hist() method, I obtained the pictorial view of the data: <img src="pic06.png"/>
 
+From the statistics and histograms of the data, I realised that there were errors in the following variables:
+* ap_hi
+* ap_lo
+* height
+* weight
+
+To resolve the issue, I will treat the errors as outliers and remove them:
+
+<img align="left" height="100" src="pic07.png"/> --> <img align="right" height="100" src="pic08.png"/>
+
