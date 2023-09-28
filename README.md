@@ -78,4 +78,9 @@ Data Dictionary:
 
 Using the info() method, I obtained more information of the data: <img src="pic04.jpg"/>
 
+Using the describe() method, I obtained statistics of the data: <img src="pic05.jpg"/>
+
+Using the hist() method, I obtained the pictorial view of the data: <img src="pic06.png"/>
+
+
 # Data Preparation
