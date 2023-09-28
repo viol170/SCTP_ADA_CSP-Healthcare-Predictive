@@ -67,17 +67,13 @@ Data Dictionary:
 |alco|Alcohol intake|BINARY|NONE| |
 |ap_hi|Systolic blood pressure|INT|NONE| |
 |ap_lo|Diastolic blood pressure|INT|NONE| |
-|cholesterol|Cholesterol level of the patient|INT|NONE| |
+|cholesterol|Cholesterol level of the patient|INT|NONE|1-low, 2-normal, 3-high|
 |gender|The gender of the patient|INT|NONE|1-Male, 2-Female|
 |gluc|Glucose level of the patient|INT|NONE|1-low, 2-normal, 3-high|
-|heart_disease|0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease|
-|ever_married|"No" or "Yes"|
-|work_type|"children", "Govt_jov", "Never_worked", "Private" or "Self-employed"|
-|Residence_type|"Rural" or "Urban"|
-|avg_glucose_level|average glucose level in blood|
-|bmi|body mass index|
-|smoking_status|"formerly smoked", "never smoked", "smokes" or "Unknown"* |
-|stroke|1 if the patient had a stroke or 0 if not|
-
+|height|Height of the patient|INT|CM| |
+|occupation|Occupation of the patient|STRING|NONE| |
+|smoke|Presence of smoking|BINARY|NONE| |
+|weight|Weight of the patient|FLOAT|KG| |
+|disease|Presence of disease|BINARY|NONE|Target variable|
 
 # Data Preparation
