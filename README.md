@@ -116,5 +116,5 @@ Before deploying the Machine Learning algorithms, I employed two different and s
 
 The following correlation matrices is generated after the data processing:
 * Standardise Scaling: <img src="pic15.png"/>
-* Data Aggregating and binning: <img src="pic16.png"/>
+* Data Aggregating and binning: <img src="pic20.png"/>
 
