@@ -22,7 +22,7 @@ It is estimated that up to 90% of CVD may be preventable.  Prevention of CVD inv
 
 Cardiovascular diseases are the leading cause of death worldwide except Africa.  Together CVD resulted in 17.9 million deaths (32.1%) in 2015, up from 12.3 million (25.8%) in 1990.  Deaths, at a given age, from CVD are more common and have been increasing in much of the developing world, while rates have declined in most of the developed world since the 1970s.  Coronary artery disease and stroke account for 80% of CVD deaths in males and 75% of CVD deaths in females.  Most cardiovascular disease affects older adults. In the United States 11% of people between 20 and 40 have CVD, while 37% between 40 and 60, 71% of people between 60 and 80, and 85% of people over 80 have CVD.  The average age of death from coronary artery disease in the developed world is around 80, while it is around 68 in the developing world.  CVD is typically diagnosed seven to ten years earlier in men than in women.
 
-# Machine Learning and Deep Learning
+# Machine Learning
 
 <img align="left" height="200" src="pic02.jpg"/>
 
