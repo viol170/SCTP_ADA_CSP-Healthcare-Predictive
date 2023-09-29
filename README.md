@@ -102,10 +102,10 @@ From the statistics and histograms of the data, I realised that there were error
 * weight
 
 To resolve the issue, I will treat the errors as outliers and remove them:
-* ap_hi: <img height="200" src="pic07.png"/> --> <img height="200" src="pic08.png"/>
-* ap_lo: <img height="200" src="pic09.png"/> --> <img height="200" src="pic10.png"/>
-* height: <img height="200" src="pic11.png"/> --> <img height="200" src="pic12.png"/>
-* weight: <img height="200" src="pic13.png"/> --> <img height="200" src="pic14.png"/>
+* ap_hi: <img height="150" src="pic07.png"/> --> <img height="150" src="pic08.png"/>
+* ap_lo: <img height="150" src="pic09.png"/> --> <img height="150" src="pic10.png"/>
+* height: <img height="150" src="pic11.png"/> --> <img height="150" src="pic12.png"/>
+* weight: <img height="150" src="pic13.png"/> --> <img height="150" src="pic14.png"/>
 
 Note that outliers often skew the results of statistical analyses on the dataset, which leads to less effective models.
 
