@@ -89,7 +89,7 @@ As most machine learning algorithms cannot handle categorical variables, I used 
   - 8-Teacher
   - 0-Others
 
-Using the info() method, I obtained more information of the data: <img src="pic04.jpg"/>
+Using the info() method, I obtained more information of the data: <img align="left" src="pic04.jpg"/>
 
 Using the describe() method, I obtained statistics of the data: <img src="pic05.jpg"/>
 
