@@ -48,7 +48,7 @@ Machine Learning can play an essential role in predicting presence/absence of He
 <img align="right" height="100" src="pic03c.jpg"/>
 * Random Forest Classifier: This classifier creates a forest of trees where each tree is formed from random selection of features from the total features.
 <img align="left" height="100" src="pic03d.jpg"/>
-* Support Vector Classifier: This classifier aims at forming a hyperplane that can separate the classes as much as possible by adjusting the distance between data points and the hyperplane.
+* Support Vector Classifier: This classifier aims at forming a hyperplane that can separate the classes as much as possible by adjusting the distance between data points and the hyperplane. <br />
 
 # Data Source
 The dataset provided for this project is a subset of data our team worked on for a project of Parkway Pantai to understand the influence of various factors on the heart disease.
@@ -89,8 +89,7 @@ As most machine learning algorithms cannot handle categorical variables, I used 
   - 8-Teacher
   - 0-Others
 
-Using the info() method, I obtained more information of the data:
-<img align="left" src="pic04.jpg"/>
+Using the info() method, I obtained more information of the data: <img align="left" src="pic04.jpg"/>
 
 Using the describe() method, I obtained statistics of the data: <img src="pic05.jpg"/>
 
