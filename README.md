@@ -124,17 +124,20 @@ The following correlation matrices is generated after the data processing:
 
 | |Standardise Scaling|Data Aggregating|
 |:--|:--:|:--:|
-|K Neighbors Classifier|<img src="pic16.png"/> Max Score = 72% |<img src="pic21.png"/> Max Score = |
-|Decision Tree Classifier|<img src="pic17.png"/> Max Score = |<img src="pic22.png"/> Max Score = |
-|Random Forest Classifier|<img src="pic18.png"/> Max Score = |<img src="pic23.png"/> Max Score = |
-|Support Vector Classifier|<img src="pic19.png"/> Max Score = |<img src="pic24.png"/> Max Score = |
+|K Neighbors Classifier|<img src="pic16.png"/> Max Score = 72.0%|<img src="pic21.png"/> Max Score = 62.5%|
+|Decision Tree Classifier|<img src="pic17.png"/> Max Score = 63.6%|<img src="pic22.png"/> Max Score = 42.7% |
+|Random Forest Classifier|<img src="pic18.png"/> Max Score = 72.4%|<img src="pic23.png"/> Max Score = 48.5%|
+|Support Vector Classifier|<img src="pic19.png"/> Max Score = 73.0%|<img src="pic24.png"/> Max Score = 67.7%|
 
 # Conclusion
-
-
+* Overall, Support Vector Classifier has the best score at 73.0% using RBF as kernel.
+* In general, Data Aggregating and Binning produced less effective models than Standardised Scaling but have a much faster process time.
 
 # Future Developments
 I intend to extend my research by working on the following:
 * Logistic Regression
 * Naive Bayes Classifier
 * Deep Learning Models
+
+# SAFRA Swim For Hope
+<a href="https://www.safras4h.sg/donate!P00589KZ">Please support</a>
